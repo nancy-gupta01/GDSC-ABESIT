@@ -51,6 +51,16 @@ function Contributors() {
       social2: "https://www.linkedin.com/in/kabir-shukla-396247233/",
       desc: "Aspiring Jim Halpert"
     },
+    
+    {
+        id: 46364,
+        name:"nancy gupta",
+        img: "",
+        role: "contributor",
+        social1: "https://www.linkedin.com/in/nancy-gupta-916058251/",
+        social2: "https://www.linkedin.com/in/nancy-gupta-916058251/",
+        desc: "hello my name is nancy"
+      },
 
 // Use this template below
 
